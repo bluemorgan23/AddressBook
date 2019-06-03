@@ -1,0 +1,11 @@
+/Users/blue/Projects/NSS/workspace/csharp/exercises/Address_Book/obj/Debug/netcoreapp2.2/Address_Book.csprojAssemblyReference.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/Address_Book/obj/Debug/netcoreapp2.2/Address_Book.csproj.CoreCompileInputs.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/Address_Book/obj/Debug/netcoreapp2.2/Address_Book.AssemblyInfoInputs.cache
+/Users/blue/Projects/NSS/workspace/csharp/exercises/Address_Book/obj/Debug/netcoreapp2.2/Address_Book.AssemblyInfo.cs
+/Users/blue/Projects/NSS/workspace/csharp/exercises/Address_Book/bin/Debug/netcoreapp2.2/Address_Book.deps.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/Address_Book/bin/Debug/netcoreapp2.2/Address_Book.runtimeconfig.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/Address_Book/bin/Debug/netcoreapp2.2/Address_Book.runtimeconfig.dev.json
+/Users/blue/Projects/NSS/workspace/csharp/exercises/Address_Book/bin/Debug/netcoreapp2.2/Address_Book.dll
+/Users/blue/Projects/NSS/workspace/csharp/exercises/Address_Book/bin/Debug/netcoreapp2.2/Address_Book.pdb
+/Users/blue/Projects/NSS/workspace/csharp/exercises/Address_Book/obj/Debug/netcoreapp2.2/Address_Book.dll
+/Users/blue/Projects/NSS/workspace/csharp/exercises/Address_Book/obj/Debug/netcoreapp2.2/Address_Book.pdb
